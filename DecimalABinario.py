@@ -3,7 +3,7 @@
 # Herrera
 # Chasipanta
 # CONVERTIR DECIMAL A BINARIO USANDO PILAS
-
+# https://github.com/AlanHerrera01/Taller1/blob/main/DecimalABinario.py
 class Pila:
     def _init_(self):
         self.items = []
